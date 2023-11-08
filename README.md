@@ -1,0 +1,2 @@
+# new-repository
+always fun
